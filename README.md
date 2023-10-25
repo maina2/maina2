@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me chanzusimon6@gmail.com and https://wa.me/717417314
 
-- ⚡ Fun fact I'm him😂😂😂
+- ⚡ Fun fact: I'm him😂😂😂
 
 - 💪 I’m looking to collaborate on web development and security in software systems.
 
