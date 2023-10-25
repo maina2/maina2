@@ -5,20 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on polishing my skills on my frontend, backend as well as design
+- 🌱 I’m currently learning cloud computing
+- 👯 I’m looking to collaborate on SERN stack and MEERN stack projects
+- 🤔 I’m looking for help with aws 
+- 📫 How to reach me: chanzusimon6@gmail.com
 - ⚡ Fun fact: ...
 <h1 align="center">Hi 👋, I'm Erick{@Erick384} </h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
-- 👀 I’m interested in making the world a better place.
+- 👀 I’m working on exploiting my potential.
 
-- 🌱 I’m currently learning Machine Learning Software Engineering
+- 🌱 I’m currently learning machine learning and web development.
 
 - 📫 How to reach me chanzusimon6@gmail.com and https://wa.me/717417314
 
@@ -31,9 +29,9 @@ Here are some ideas to get you started:
 <center>
   <table>
   <tr>
-      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=Erick384&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-      <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Erick384&theme=dark" /></td>    
-         <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick384&show_icons=true&locale=en&layout=compact&theme=dark" /></td>
+      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=maina2&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=maina2&theme=dark" /></td>    
+         <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maina2&show_icons=true&locale=en&layout=compact&theme=dark" /></td>
   </tr>   
   </table>
 </center>
