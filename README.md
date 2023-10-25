@@ -5,12 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on polishing my skills on my frontend, backend as well as design
-- 🌱 I’m currently learning cloud computing
-- 👯 I’m looking to collaborate on SERN stack and MEERN stack projects
-- 🤔 I’m looking for help with aws 
-- 📫 How to reach me: chanzusimon6@gmail.com
-- ⚡ Fun fact: ...
 <h1 align="center">Hi 👋, I'm Simon{@maina2} </h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
@@ -20,7 +14,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me chanzusimon6@gmail.com and https://wa.me/717417314
 
-- ⚡ Fun fact 😂😂😂
+- ⚡ Fun fact I'm him😂😂😂
 
 - 💪 I’m looking to collaborate on web development and security in software systems.
 
