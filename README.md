@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <h1 align="center">Hi 👋, I'm Simon{@maina2} </h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
