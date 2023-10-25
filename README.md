@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**maina2/maina2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Simon{@maina2} </h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
