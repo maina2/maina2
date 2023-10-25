@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with aws 
 - 📫 How to reach me: chanzusimon6@gmail.com
 - ⚡ Fun fact: ...
-<h1 align="center">Hi 👋, I'm Erick{@Erick384} </h1>
+<h1 align="center">Hi 👋, I'm Simon{@maina2} </h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
 - 👀 I’m working on exploiting my potential.
