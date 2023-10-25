@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact 😂😂😂
 
-- 💞️ I’m looking to collaborate on web development and security in software systems.
+- 💪 I’m looking to collaborate on web development and security in software systems.
 
 <p align="left">
 
