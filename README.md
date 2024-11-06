@@ -4,7 +4,7 @@
 
 - 👀 I’m working on exploiting my potential.
 
-- 🌱 I’m currently learning machine learning and web development.
+- 🌱 I’m currently learning database management and web development.
 
 - 📫 How to reach me chanzusimon6@gmail.com and https://wa.me/717417314
 
