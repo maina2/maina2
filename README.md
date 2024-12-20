@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow" />
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange" />
   <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933" />
   <img src="https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=red" />
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=orange" />
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=black" />
