@@ -19,10 +19,14 @@
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue" />
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933" />
-  <img src="https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007ACC" />
+  <img src="https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=green" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248" />
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=orange" />
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=green" />
+  <img src="https://img.shields.io/badge/Tools-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25" />
 </p>
 
 ---
@@ -32,7 +36,7 @@
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=maina2&count_private=true&show_icons=true&theme=dark&layout=compact" alt="maina2 GitHub Stats"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=maina2&theme=dark" alt="maina2 GitHub Streak"/></td>
+      <td><img src="https://streak-stats.demolab.com?user=maina2&theme=dark" alt="maina2 GitHub Streak"/></td>
     </tr>
     <tr>
       <td colspan="2" align="center">
