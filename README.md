@@ -36,7 +36,7 @@
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=maina2&count_private=true&show_icons=true&theme=dark&layout=compact" alt="maina2 GitHub Stats"/></td>
-      <td><img src="https://streak-stats.demolab.com?user=maina2&theme=dark" alt="maina2 GitHub Streak"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=maina2&theme=dark&hide_border=true" alt="maina2 GitHub Streak"/></td>
     </tr>
     <tr>
       <td colspan="2" align="center">
