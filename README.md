@@ -1,5 +1,7 @@
 Simon Maina
+
 Software Developer | Kenya
+
 As a dedicated software developer from Kenya, I specialize in crafting scalable web applications and have a strong focus on database management and software security. I excel at tackling complex challenges and delivering user-centric solutions that drive impact.  
 
  
