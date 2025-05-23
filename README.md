@@ -5,7 +5,8 @@ Software Developer | Kenya
 As a dedicated software developer from Kenya, I specialize in crafting scalable web applications and have a strong focus on database management and software security. I excel at tackling complex challenges and delivering user-centric solutions that drive impact.  
 
  
- About Me
+About Me
+
 Current Focus: Building modern web applications and exploring secure software systems.  
 
 Learning: Advancing skills in database management (SQL Server, MongoDB) and web development (React, Node.js, Django).  
