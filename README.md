@@ -71,6 +71,7 @@
 📧 [Email](mailto:chanzusimon6@gmail.com) • 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • 🐙 [GitHub](https://github.com/maina2) • 💬 [WhatsApp](https://wa.me/717417314)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maina2&color=blueviolet&style=flat-square) ![Repos](https://img.shields.io/badge/dynamic/json?color=00C851&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaina2&style=flat-square)
+</div>
 
 ---
 ## 💡 Fun Fact
