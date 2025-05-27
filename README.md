@@ -101,7 +101,7 @@
 | 📧 **Email** | [chanzusimon6@gmail.com](mailto:chanzusimon6@gmail.com) |
 | 💼 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) |
 | 🐙 **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maina2) |
-| 💬 **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_PHONE_NUMBER) |
+| 💬 **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/717417314) |
 
 </div>
 
@@ -128,7 +128,8 @@ const simon = {
 
 ### ⚡ Quick Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maina2&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maina2&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maina2&theme=github_dark)
 
 </div>
 
@@ -136,9 +137,7 @@ const simon = {
 
 <div align="center">
 
-**💖 Thanks for visiting my profile!**
-
-*If you find my projects interesting, please consider ⭐ starring them to show your support!*
+*If you find my projects interesting,feel free to star some, along the way!*
 
 ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
