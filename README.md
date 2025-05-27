@@ -28,8 +28,8 @@
 
 ## 🛠️ Technologies & Tools
 
-### Languages
-<p align="center">  
+**Languages**  
+<p align="center" style="margin: 5px 0;">  
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />  
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" />  
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />  
@@ -38,8 +38,8 @@
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?&style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />  
 </p>
 
-### Frameworks & Libraries
-<p align="center">  
+**Frameworks & Libraries**  
+<p align="center" style="margin: 5px 0;">  
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black" alt="React" />  
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />  
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=flat-square&logo=express&logoColor=white" alt="Express.js" />  
@@ -47,8 +47,8 @@
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />  
 </p>
 
-### Databases & Tools
-<p align="center">  
+**Databases & Tools**  
+<p align="center" style="margin: 5px 0;">  
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />  
   <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />  
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white" alt="Git" />  
@@ -61,12 +61,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maina2&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F8D866&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina2&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=6" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maina2&theme=dracula&hide_border=true&background=0D1117" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maina2&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F8D866&count_private=true&include_all_commits=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina2&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=6" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maina2&theme=dracula&hide_border=true&background=0D1117" width="32%" />
 </div>
 
 ---
@@ -87,5 +84,6 @@ const simon = {
     funFact: "I debug with console.log() and turn bugs into features! 🐛😂"
 };
 console.log("Drop by and say hi! 👋");
+```
 
 </div>
