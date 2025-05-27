@@ -126,19 +126,8 @@ const simon = {
 
 <div align="center">
 
-### ⚡ Quick Stats
+**💖 Thanks for visiting my profile!**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maina2&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maina2&theme=github_dark)
-
-</div>
-
----
-
-<div align="center">
-
-*If you find my projects interesting,feel free to star some, along the way!*
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+*If you find my projects interesting, please consider ⭐ starring them to show your support!*
 
 </div>
