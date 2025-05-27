@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Simon Maina
+# 👋 Hey There, I’m Simon Maina! 😄
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Developer+from+Kenya;Backend+Engineering+Enthusiast;API+Architecture+Specialist;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B¢er=true&vCenter=true&width=435&lines=Software+Dev+from+Kenya;Backend+Wizard+🎩;API+Mastermind;Always+Leveling+Up+💡)](https://git.io/typing-svg)
   
 </div>
 
@@ -10,13 +10,25 @@
 
 ## 🚀 About Me
 
-> Passionate software developer with a strong focus on **backend engineering** and **scalable API development**
+> I’m a passionate software developer obsessed with **backend engineering** and crafting **scalable APIs** that power awesome apps! 🌟
 
-- 🔭 Currently building modern web applications and expanding into **DevOps practices**
-- 🌱 Exploring advanced **Jenkins**, **SQL Server**, and **MongoDB** techniques
-- 💡 Specializing in **Django REST Framework**, **FastAPI**, and **Node.js**
-- 🎯 Always driven to deliver impactful, user-centric solutions
-- 🤝 Open to collaborating on innovative web development and DevOps projects
+- 🔭 Currently conjuring modern web apps and diving into **DevOps magic** 🛠️
+- 🌱 Digging into advanced **Jenkins**, **SQL Server**, and **MongoDB** tricks
+- 💡 Rocking **Django REST Framework**, **FastAPI**, and **Node.js** like a pro
+- 🎯 Driven to build impactful, user-loving solutions
+- 🤝 Let’s team up on wild web dev or DevOps adventures! Open to collabs! ✨
+
+---
+
+## 🌟 Featured Projects
+
+Check out some of my latest creations:
+
+- **[API Powerhouse](https://github.com/maina2/api-powerhouse)**: A blazing-fast REST API with FastAPI and MongoDB—perfect for scalable backends! 🚀
+- **[Django Magic](https://github.com/maina2/django-magic)**: A Django app with CI/CD pipelines using Jenkins—automation at its best! 🐍
+- **[Node Ninja](https://github.com/maina2/node-ninja)**: A Node.js project showcasing Express.js for real-time apps. ⚡
+
+*Star ⭐ them if you like what you see!*
 
 ---
 
@@ -25,46 +37,42 @@
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=gray)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=gray)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=gray)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=gray)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=gray)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=gray)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&labelColor=gray)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&labelColor=gray)
 
 ### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=gray)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=gray)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=gray)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=gray)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Vibes
 
 <div align="center">
 
-| Overview | Languages |
-|----------|-----------|
-| ![Simon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF) |
+| Metric         | Value 🎉       |
+|----------------|----------------|
+| **Total Commits** | [Check my commits!](https://github.com/maina2) 👀 |
+| **Public Repos** | [Explore my repos!](https://github.com/maina2?tab=repositories) 🌍 |
+| **Profile Views** | [Peek at views!](https://komarev.com/ghpvc/?username=maina2&color=blueviolet&style=flat-square) 👁️ |
 
 </div>
 
-<div align="center">
-
-| Streak Stats | Activity Graph |
-|--------------|----------------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true) |
-
-</div>
+*Note: Stats might be shy due to API limits—visit my profile for the full scoop!*
 
 ---
 
@@ -72,32 +80,18 @@
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=maina2&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=3)
   
 </div>
 
 ---
 
-## 📈 Contribution Stats
+## 🤝 Let’s Connect
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| **Total Commits** | ![Commits](https://img.shields.io/badge/dynamic/json?color=2F81F7&label=Total%20Commits&query=%24.totalCommits&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaina2&style=for-the-badge) |
-| **Public Repos** | ![Repos](https://img.shields.io/badge/dynamic/json?color=00C851&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaina2&style=for-the-badge) |
-| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge) |
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-| Platform | Contact |
-|----------|---------|
+| Platform | Contact 🌐 |
+|----------|------------|
 | 📧 **Email** | [chanzusimon6@gmail.com](mailto:chanzusimon6@gmail.com) |
 | 💼 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) |
 | 🐙 **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maina2) |
@@ -107,38 +101,15 @@
 
 ---
 
-## 🚀 Featured Projects & Repositories
-
-<div align="center">
-
-| Project Type | Technologies | Status |
-|--------------|-------------|---------|
-| 🌐 **Web Applications** | Django, React, Node.js | Active Development |
-| 🔌 **REST APIs** | FastAPI, Express.js | Production Ready |
-| 🗄️ **Database Solutions** | MongoDB, SQL Server | Optimized |
-| 🔧 **DevOps Tools** | Jenkins, Git, Bash | Learning & Implementing |
-
-</div>
+## 💡 Fun Fact
 
 <div align="center">
 
 ```javascript
 const simon = {
     location: "Kenya 🇰🇪",
-    currentFocus: "Building scalable APIs and modern web applications",
-    goal: "Contributing to impactful open-source projects",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    currentFocus: "Crafting epic APIs and web apps",
+    goal: "Conquering open-source with flair! 🌍",
+    funFact: "I debug with console.log() and turn bugs into features! 🐛😂"
 };
-```
-
-</div>
-
----
-
-<div align="center">
-
-**💖 Thanks for visiting my profile!**
-
-*If you find my projects interesting, please consider ⭐ starring them to show your support!*
-
-</div>
+console.log("Drop by and say hi! 👋");
