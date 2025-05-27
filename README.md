@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Software+Dev+from+Kenya;Backend+Wizard+🎩;API+Mastermind;Always+Leveling+Up+💡)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Software+Developer+from+Kenya;Backend+Wizard+🎩;API+Mastermind;Always+Leveling+Up+💡)](https://git.io/typing-svg)
   
 </div>
 
@@ -22,9 +22,9 @@
 
 ## 🌟 Featured Projects
 
--[API Powerhouse](https://github.com/maina2/api-powerhouse)**: A blazing-fast REST API with FastAPI and MongoDB 🚀 
--[Django Magic](https://github.com/maina2/django-magic)**: Django app with CI/CD pipelines using Jenkins 🐍 
--[Node Ninja](https://github.com/maina2/node-ninja)**: Node.js project showcasing Express.js for real-time apps ⚡
+-[API Powerhouse](https://github.com/maina2/api-powerhouse)**: -A blazing-fast REST API with FastAPI and MongoDB 🚀 
+-[Django Magic](https://github.com/maina2/django-magic)**: -Django app with CI/CD pipelines using Jenkins 🐍 
+-[Node Ninja](https://github.com/maina2/node-ninja)**: -Node.js project showcasing Express.js for real-time apps ⚡
 
 *Star ⭐ them if you like what you see!*
 
@@ -67,7 +67,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maina2&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F8D866&count_private=true&include_all_commits=true" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina2&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=6" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maina2&theme=dracula&hide_border=true&background=0D1117" width="32%" />
+</div>
+<div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maina2&theme=dracula&hide_border=true&background=0D1117" width="32%" />
+
 </div>
 
 ---
@@ -80,6 +83,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maina2&color=blueviolet&style=flat-square) ![Repos](https://img.shields.io/badge/dynamic/json?color=00C851&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaina2&style=flat-square)
 
+</div>
 ```javascript
 const simon = {
     location: "Kenya 🇰🇪",
@@ -89,5 +93,3 @@ const simon = {
 };
 console.log("Drop by and say hi! 👋");
 ```
-
-</div>
