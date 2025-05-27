@@ -84,8 +84,8 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Commits** | ![Commits](https://img.shields.io/badge/dynamic/json?color=2F81F7&label=Total%20Commits&query=%24.totalCommits&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME&style=for-the-badge) |
-| **Public Repos** | ![Repos](https://img.shields.io/badge/dynamic/json?color=00C851&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME&style=for-the-badge) |
+| **Total Commits** | ![Commits](https://img.shields.io/badge/dynamic/json?color=2F81F7&label=Total%20Commits&query=%24.totalCommits&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaina2&style=for-the-badge) |
+| **Public Repos** | ![Repos](https://img.shields.io/badge/dynamic/json?color=00C851&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaina2&style=for-the-badge) |
 | **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge) |
 
 </div>
@@ -100,7 +100,7 @@
 |----------|---------|
 | 📧 **Email** | [chanzusimon6@gmail.com](mailto:chanzusimon6@gmail.com) |
 | 💼 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) |
-| 🐙 **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME) |
+| 🐙 **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maina2) |
 | 💬 **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_PHONE_NUMBER) |
 
 </div>
@@ -128,7 +128,7 @@ const simon = {
 
 ### ⚡ Quick Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maina2&theme=github_dark)
 
 </div>
 
@@ -136,8 +136,9 @@ const simon = {
 
 <div align="center">
 
+**💖 Thanks for visiting my profile!**
 
-*If you find my projects interesting, star some of them along the way !*
+*If you find my projects interesting, please consider ⭐ starring them to show your support!*
 
 ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
