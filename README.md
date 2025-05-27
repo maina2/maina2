@@ -76,7 +76,7 @@
 ---
 ## 💡 Fun Fact
 
-<div align="center">
+<div>
 
 ```javascript
 const simon = {
