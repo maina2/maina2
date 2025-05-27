@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B¢er=true&vCenter=true&width=435&lines=Software+Dev+from+Kenya;Backend+Wizard+🎩;API+Mastermind;Always+Leveling+Up+💡)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Software+Dev+from+Kenya;Backend+Wizard+🎩;API+Mastermind;Always+Leveling+Up+💡)](https://git.io/typing-svg)
   
 </div>
 
@@ -22,11 +22,10 @@
 
 ## 🌟 Featured Projects
 
-Check out some of my latest creations:
-
-- **[API Powerhouse](https://github.com/maina2/api-powerhouse)**: A blazing-fast REST API with FastAPI and MongoDB—perfect for scalable backends! 🚀
-- **[Django Magic](https://github.com/maina2/django-magic)**: A Django app with CI/CD pipelines using Jenkins—automation at its best! 🐍
-- **[Node Ninja](https://github.com/maina2/node-ninja)**: A Node.js project showcasing Express.js for real-time apps. ⚡
+Check out some of my latest creations:  
+- **[API Powerhouse](https://github.com/maina2/api-powerhouse)**: A blazing-fast REST API with FastAPI and MongoDB—perfect for scalable backends! 🚀  
+- **[Django Magic](https://github.com/maina2/django-magic)**: A Django app with CI/CD pipelines using Jenkins—automation at its best! 🐍  
+- **[Node Ninja](https://github.com/maina2/node-ninja)**: A Node.js project showcasing Express.js for real-time apps. ⚡  
 
 *Star ⭐ them if you like what you see!*
 
@@ -60,28 +59,28 @@ Check out some of my latest creations:
 
 ---
 
-## 📊 GitHub Vibes
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Metric         | Value 🎉       |
-|----------------|----------------|
-| **Total Commits** | [Check my commits!](https://github.com/maina2) 👀 |
-| **Public Repos** | [Explore my repos!](https://github.com/maina2?tab=repositories) 🌍 |
-| **Profile Views** | [Peek at views!](https://komarev.com/ghpvc/?username=maina2&color=blueviolet&style=flat-square) 👁️ |
+![Simon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maina2&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F8D866)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maina2&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maina2&theme=dracula&hide_border=true&background=0D1117)
 
 </div>
 
-*Note: Stats might be shy due to API limits—visit my profile for the full scoop!*
+*Note: If stats don’t load, it might be due to API limits—check out my profile directly!*
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Stats
 
 <div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=maina2&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=3)
-  
+
+![Commits](https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Commits&query=%24.totalCommits&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaina2&style=flat-square)
+![Repos](https://img.shields.io/badge/dynamic/json?color=00C851&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaina2&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=maina2&color=blueviolet&style=flat-square)
+
 </div>
 
 ---
@@ -90,12 +89,10 @@ Check out some of my latest creations:
 
 <div align="center">
 
-| Platform | Contact 🌐 |
-|----------|------------|
-| 📧 **Email** | [chanzusimon6@gmail.com](mailto:chanzusimon6@gmail.com) |
-| 💼 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) |
-| 🐙 **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maina2) |
-| 💬 **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/717417314) |
+📧 [Email](mailto:chanzusimon6@gmail.com) &nbsp;&nbsp; 
+💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;&nbsp; 
+🐙 [GitHub](https://github.com/maina2) &nbsp;&nbsp; 
+💬 [WhatsApp](https://wa.me/717417314)
 
 </div>
 
