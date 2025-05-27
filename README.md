@@ -34,33 +34,34 @@ Check out some of my latest creations:
 ## 🛠️ Tech Stack
 
 <div align="center">
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=gray)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=gray)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=gray)  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=gray)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=gray)  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=gray)  
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=gray)  
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&labelColor=gray)  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=gray)  
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&labelColor=gray)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=gray)  
-  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=gray)  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=gray)  
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=gray)
+  ![JavaScript/TypeScript](https://img.shields.io/badge/JavaScript%2FTypeScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=gray) 
+  ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=gray) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=gray) 
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=gray) 
+  ![Node.js/Express](https://img.shields.io/badge/Node.js%2FExpress-43853D?style=flat-square&logo=node.js&logoColor=white&labelColor=gray) 
+  ![Django/FastAPI](https://img.shields.io/badge/Django%2FFastAPI-092E20?style=flat-square&logo=django&logoColor=white&labelColor=gray) 
+  ![MongoDB/SQL](https://img.shields.io/badge/MongoDB%2FSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=gray) 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=gray) 
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=gray)
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
-  ![Simon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maina2&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F8D866)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maina2&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maina2&theme=dracula&hide_border=true&background=0D1117)
-</div>
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=maina2&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F8D866" width="300" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina2&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" width="200" alt="Top Languages"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=maina2&theme=dracula&hide_border=true&background=0D1117" width="300" alt="GitHub Streak"></td>
+  </tr>
+</table>
 
 *Note: If stats don’t load, it might be due to API limits—check out my profile directly!*
+
+</div>
 
 ---
 
