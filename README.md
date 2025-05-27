@@ -107,7 +107,18 @@
 
 ---
 
-## 💡 Fun Fact
+## 🚀 Featured Projects & Repositories
+
+<div align="center">
+
+| Project Type | Technologies | Status |
+|--------------|-------------|---------|
+| 🌐 **Web Applications** | Django, React, Node.js | Active Development |
+| 🔌 **REST APIs** | FastAPI, Express.js | Production Ready |
+| 🗄️ **Database Solutions** | MongoDB, SQL Server | Optimized |
+| 🔧 **DevOps Tools** | Jenkins, Git, Bash | Learning & Implementing |
+
+</div>
 
 <div align="center">
 
