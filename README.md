@@ -1,8 +1,8 @@
-# 👋 Hey There, I'm Simon Maina! 😄
+# Hey There, I'm Simon Maina...
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Software+Developer+from+Kenya;Backend+Wizard+🎩;API+Mastermind;Always+Leveling+Up+💡)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Software+Developer+from+Kenya;Backend+Wizard+🎩;API+Enthusiast;Always+Leveling+Up+💡)](https://git.io/typing-svg)
   
 </div>
 
@@ -17,16 +17,6 @@
 - 💡 Rocking **Django REST Framework**, **FastAPI**, and **Node.js** like a pro
 -  🎯 Driven to build impactful, user-loving solutions
 - 🤝 Let's team up on wild web dev or DevOps adventures! Open to collabs! ✨
-
----
-
-## 🌟 Featured Projects
-
--[API Powerhouse](https://github.com/maina2/api-powerhouse)**: -A blazing-fast REST API with FastAPI and MongoDB 🚀 
--[Django Magic](https://github.com/maina2/django-magic)**: -Django app with CI/CD pipelines using Jenkins 🐍 
--[Node Ninja](https://github.com/maina2/node-ninja)**: -Node.js project showcasing Express.js for real-time apps ⚡
-
-*Star ⭐ them if you like what you see!*
 
 ---
 
@@ -75,13 +65,16 @@
 
 ---
 
-## 🤝 Let's Connect & Fun Fact
+## 🤝 Let's Connect 
 
 <div align="center">
 
 📧 [Email](mailto:chanzusimon6@gmail.com) • 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • 🐙 [GitHub](https://github.com/maina2) • 💬 [WhatsApp](https://wa.me/717417314)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maina2&color=blueviolet&style=flat-square) ![Repos](https://img.shields.io/badge/dynamic/json?color=00C851&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaina2&style=flat-square)
+
+---
+## Fun Fact
 
 </div>
 ```javascript
