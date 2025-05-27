@@ -28,7 +28,8 @@
 
 ## 🛠️ Technologies & Tools
 
-**Languages**  
+<div>
+  **Languages**  
 <p align="center" style="margin: 5px 0;">  
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />  
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" />  
@@ -37,8 +38,9 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" alt="CSS3" />  
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?&style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />  
 </p>
-
-**Frameworks & Libraries**  
+</div>
+<div>
+  **Frameworks & Libraries**  
 <p align="center" style="margin: 5px 0;">  
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black" alt="React" />  
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />  
@@ -46,8 +48,9 @@
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=flat-square&logo=django&logoColor=white" alt="Django" />  
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />  
 </p>
-
-**Databases & Tools**  
+</div>
+<div>
+  **Databases & Tools**  
 <p align="center" style="margin: 5px 0;">  
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />  
   <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />  
@@ -56,6 +59,7 @@
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />  
 </p>
 
+</div>
 ---
 
 ## 📊 GitHub Analytics
