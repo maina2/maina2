@@ -33,37 +33,17 @@ Check out some of my latest creations:
 
 ## 🛠️ Tech Stack
 
-<p align="center">  
-
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />  
-
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" alt="HTML5" />  
-
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" alt="CSS3" />  
-
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" />  
-
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black" alt="React" />  
-
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />  
-
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />  
-
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=flat-square&logo=express&logoColor=white" alt="Express.js" />  
-
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=flat-square&logo=django&logoColor=white" alt="Django" />  
-
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />  
-
-  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />  
-
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white" alt="Git" />  
-
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub" />  
-
-  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?&style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />  
-
-</p>  
+<div align="center">
+  ![JavaScript/TypeScript](https://img.shields.io/badge/JavaScript%2FTypeScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=gray) 
+  ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=gray) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=gray) 
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=gray) 
+  ![Node.js/Express](https://img.shields.io/badge/Node.js%2FExpress-43853D?style=flat-square&logo=node.js&logoColor=white&labelColor=gray) 
+  ![Django/FastAPI](https://img.shields.io/badge/Django%2FFastAPI-092E20?style=flat-square&logo=django&logoColor=white&labelColor=gray) 
+  ![MongoDB/SQL](https://img.shields.io/badge/MongoDB%2FSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=gray) 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=gray) 
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=gray)
+</div>
 
 ---
 
@@ -78,8 +58,6 @@ Check out some of my latest creations:
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=maina2&theme=dracula&hide_border=true&background=0D1117" width="300" alt="GitHub Streak"></td>
   </tr>
 </table>
-
-*Note: If stats don’t load, it might be due to API limits—check out my profile directly!*
 
 </div>
 
