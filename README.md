@@ -67,7 +67,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=maina2&color=blueviolet&style=flat-square) ![Repos](https://img.shields.io/badge/dynamic/json?color=00C851&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaina2&style=flat-square)
 
 ```javascript
-const simon = { location: "Kenya 🇰🇪", focus: "Crafting epic APIs", goal: "Conquering open-source! 🌍", funFact: "I debug with console.log() and turn bugs into features! 🐛😂" };
-```
+const simon = {
+    location: "Kenya 🇰🇪",
+    currentFocus: "Crafting epic APIs and web apps",
+    goal: "Conquering open-source with flair! 🌍",
+    funFact: "I debug with console.log() and turn bugs into features! 🐛😂"
+};
+console.log("Drop by and say hi! 👋");
 
 </div>
