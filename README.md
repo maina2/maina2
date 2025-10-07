@@ -56,8 +56,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maina2&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F8D866&count_private=true&include_all_commits=true" height="180em" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maina2&show_icons=true&theme=black)
-</div>
+<hr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel-mwendwa&show_icons=true&theme=black)
+
+<hr>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maina2&theme=dracula&hide_border=true&background=0D1117" height="180em" />
 </div>
