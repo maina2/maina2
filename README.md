@@ -56,9 +56,16 @@
 
 <div align="center">
 
+### Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maina2&theme=dracula" />
+
 ### Overview Stats
 <img src="https://github-readme-stats.vercel.app/api?username=maina2&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F8D866&count_private=true&include_all_commits=true&rank_icon=github" height="180em" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina2&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" height="180em" />
+
+### Performance Metrics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maina2&theme=dracula" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maina2&theme=dracula" height="180em" />
 
 ### Contribution Streak
 <img src="https://streak-stats.demolab.com/?user=maina2&theme=dracula&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=F8D866&currStreakLabel=FF6B6B&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" height="180em" />
